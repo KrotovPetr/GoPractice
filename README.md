@@ -1,4 +1,4 @@
-![img.png](utils/img.png)
+<img src="./utils/img.png" alt="Gopher" width="500px" height="300px"/>
 <h1>Самостоятельная практика по изучению Go</h1>
 <h3>Репозиторий временный, он создан специально для</h3>
 <ol>
